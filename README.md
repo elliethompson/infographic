@@ -1,4 +1,7 @@
-IXD103 PORTFOLIO SITE
+IXD104 INFOGRAPHIC
 ======================================
 
-- [Portfolio site](https://elliethompson.github.io/portfolio/portfolio.html)
+- [Mental Health Infographic]
+(https://github.com/elliethompson/infographic/blob/master/mental%20health%20info.pdf)
+
+
